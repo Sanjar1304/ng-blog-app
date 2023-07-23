@@ -54,3 +54,8 @@ input[type=text], input[type=email]{
   color: #fff;
   background-color: var(--primary-color);
 }
+
+.btn-theme:hover{
+  color: #fff;
+  background-color: #0C7A7D;
+}
