@@ -1,3 +1,12 @@
 .card{
-  max-width: 25rem;
+  max-width: 400px;
+}
+
+.upper-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+
+.upper-text{
+  font-size: 13px;
 }
