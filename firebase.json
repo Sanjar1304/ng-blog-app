@@ -1,1 +1,9 @@
-{}
+{
+  "hosting": [
+    {
+      "target": "ng-blog-app",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
